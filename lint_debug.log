@@ -1,0 +1,24 @@
+
+> seelam-group-website@2.0.0 lint
+> eslint "src/**/*.{js,mjs}"
+
+
+C:\Users\Naveen\OneDrive\Documents\full seelams website\src\components\ContactForm.js
+  665:23  warning  'response' is defined but never used  no-unused-vars
+  698:22  warning  'formId' is defined but never used    no-unused-vars
+  698:30  warning  'data' is defined but never used      no-unused-vars
+
+C:\Users\Naveen\OneDrive\Documents\full seelams website\src\scripts\animations.js
+  421:15  warning  'viewportHeight' is assigned a value but never used  no-unused-vars
+
+C:\Users\Naveen\OneDrive\Documents\full seelams website\src\scripts\main.js
+  20:7  warning  'analytics' is assigned a value but never used  no-unused-vars
+
+C:\Users\Naveen\OneDrive\Documents\full seelams website\src\scripts\performance.js
+  94:62  warning  'entryList' is defined but never used  no-unused-vars
+
+C:\Users\Naveen\OneDrive\Documents\full seelams website\src\utils\api-client.js
+  484:18  warning  'requestId' is defined but never used  no-unused-vars
+
+✖ 7 problems (0 errors, 7 warnings)
+
